@@ -35,6 +35,10 @@ To evaluate factors influencing insurance claim amounts and build a reporting to
 
 ## 🔗 Live Power BI Report
 > You can view the interactive version of the dashboard here:  
+## 🔗 Live Power BI Dashboard
+
+Explore the interactive dashboard here:  
+👉 [**View Power BI Report**](https://app.powerbi.com/view?r=eyJrIjoiNWFkZjQzYTktMTY3ZS00NTM3LTg4NzQtODUwZjA2YWEyMWQ1IiwidCI6IjZiMzQ2ODk5LTRlZDYtNDc2MS1hYjc1LThhMmRiMGUyN2U3MiIsImMiOjh9)
 https://app.powerbi.com/view?r=eyJrIjoiNWFkZjQzYTktMTY3ZS00NTM3LTg4NzQtODUwZjA2YWEyMWQ1IiwidCI6IjZiMzQ2ODk5LTRlZDYtNDc2MS1hYjc1LThhMmRiMGUyN2U3MiIsImMiOjh9
 
 ## 📌 Key Insights
