@@ -1,4 +1,9 @@
-# Health Insurance Claim Analysis
+# Financial Risk Analysis
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-yellow?logo=powerbi)
+![Python](https://img.shields.io/badge/Python-Modeling-blue?logo=python)
+![Excel](https://img.shields.io/badge/Excel-Data%20Prep-green?logo=microsoft-excel)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 A comprehensive project to analyze and predict health insurance claim patterns using Power BI and Python. The project includes end-to-end data processing, regression-based modeling, and interactive dashboards for business reporting.
 
